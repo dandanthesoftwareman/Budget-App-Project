@@ -1,2 +1,2 @@
 # Budget-Project
- GC Intro to HTML, CSS, Javascript
+This is a budget app that I created in a Grand Circus Intro Class
